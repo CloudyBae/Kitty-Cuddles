@@ -27,7 +27,7 @@ If successful the StateMachine will wait for the timeout and then send the email
 ![InkedScreenshot_10](https://user-images.githubusercontent.com/109190196/214949818-425d0dd8-d62d-4886-bdf2-3ee4a400181d.jpg)
 
 You can also access the logs via CloudWatch Logs.
-![InkedScreenshot_12](https://user-images.githubusercontent.com/109190196/214949973-f39f18e3-31cb-47f0-814b-4263f01b9b58.jpg)
+![InkedScreenshot_11](https://user-images.githubusercontent.com/109190196/214950191-8c0d4f20-87c2-4f70-b275-6fe79769f4ce.jpg)
 
 When the StateMachine task is complete, you will receive an email with the message from your cat.
 ![InkedScreenshot_12](https://user-images.githubusercontent.com/109190196/214949004-12fa0281-eedc-4ad6-ba2d-8420f02b2280.jpg)
