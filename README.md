@@ -24,10 +24,10 @@ Use the bucket endpoint URL to open the application in your browser. Input your 
 ![InkedScreenshot_7](https://user-images.githubusercontent.com/109190196/214949591-eee61ea8-eb62-4cd3-beaa-87a08acf47f7.jpg)
 
 If successful the StateMachine will wait for the timeout and then send the email.
-![Screenshot_10](https://user-images.githubusercontent.com/109190196/214948790-a33dda07-00e4-47ce-98fa-53fff5b6e53d.jpg)
+![InkedScreenshot_10](https://user-images.githubusercontent.com/109190196/214949818-425d0dd8-d62d-4886-bdf2-3ee4a400181d.jpg)
 
 You can also access the logs via CloudWatch Logs.
-![Screenshot_11](https://user-images.githubusercontent.com/109190196/214948843-c4559805-63f2-4426-a1a4-a68a617d9ef0.jpg)
+![InkedScreenshot_12](https://user-images.githubusercontent.com/109190196/214949973-f39f18e3-31cb-47f0-814b-4263f01b9b58.jpg)
 
 When the StateMachine task is complete, you will receive an email with the message from your cat.
 ![InkedScreenshot_12](https://user-images.githubusercontent.com/109190196/214949004-12fa0281-eedc-4ad6-ba2d-8420f02b2280.jpg)
