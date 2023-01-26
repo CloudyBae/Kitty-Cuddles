@@ -1,4 +1,4 @@
-Are you worried you're not getting your cat enough attention? Don't fret because Kitty Cuddles is a serverless application that lets your cat send you an email to tell you to come pet them! 
+Are you worried you're not giving your cat enough attention? Don't fret because Kitty Cuddles is a serverless application that lets your cat send you an email to tell you to come pet them! 
 
 Configure SES to add verified emails that AWS can use. 
 ![InkedScreenshot_1](https://user-images.githubusercontent.com/109190196/214945216-37ddf044-7622-4a6b-9f6d-007f9bd2dfa6.jpg)
