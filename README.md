@@ -21,7 +21,7 @@ Create an S3 bucket that allows public access and enable static website hosting.
 
 Use the bucket endpoint URL to open the application in your browser. Input your timer, message, and email and press Email Minion. If sent successfully, it will say so.
 ![Screenshot_8](https://user-images.githubusercontent.com/109190196/214948450-1ae82df0-24c8-409f-964d-b2baaa60c1c4.jpg)
-![Screenshot_7](https://user-images.githubusercontent.com/109190196/214948689-c95b9b0d-eb5f-404a-bab8-e4e26a220475.jpg)
+![InkedScreenshot_7](https://user-images.githubusercontent.com/109190196/214949591-eee61ea8-eb62-4cd3-beaa-87a08acf47f7.jpg)
 
 If successful the StateMachine will wait for the timeout and then send the email.
 ![Screenshot_10](https://user-images.githubusercontent.com/109190196/214948790-a33dda07-00e4-47ce-98fa-53fff5b6e53d.jpg)
